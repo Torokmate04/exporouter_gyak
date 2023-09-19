@@ -1,5 +1,5 @@
 import { StyleSheet, View, Text, Button} from 'react-native';
-import { Link, useRouter, useGlobalSearchParams, Stack } from 'expo-router';
+import { Link, useRouter, useGlobalSearchParams, Stack, Screen } from 'expo-router';
 import { get } from 'react-native/Libraries/TurboModule/TurboModuleRegistry';
 
 
